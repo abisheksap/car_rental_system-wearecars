@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBooking xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Booking>
+    <BookingId>1001</BookingId>
+    <FirstName>2wq</FirstName>
+    <Surname>sd</Surname>
+    <Address>as</Address>
+    <Age>18</Age>
+    <LicenseNumber>sasasas3323</LicenseNumber>
+    <NumberOfDays>25</NumberOfDays>
+    <CarType>Family car</CarType>
+    <FuelType>Diesel</FuelType>
+    <UnlimitedMileage>true</UnlimitedMileage>
+    <BreakdownCover>true</BreakdownCover>
+    <TotalPrice>975</TotalPrice>
+    <BookingDate>2026-01-03T11:36:46.3599005+05:45</BookingDate>
+  </Booking>
+  <Booking>
+    <BookingId>1002</BookingId>
+    <FirstName>sAS</FirstName>
+    <Surname>ASSA</Surname>
+    <Address>SASA</Address>
+    <Age>25</Age>
+    <LicenseNumber>SASA</LicenseNumber>
+    <NumberOfDays>28</NumberOfDays>
+    <CarType>Family car</CarType>
+    <FuelType>Full Electric</FuelType>
+    <UnlimitedMileage>true</UnlimitedMileage>
+    <BreakdownCover>false</BreakdownCover>
+    <TotalPrice>1080</TotalPrice>
+    <BookingDate>2026-01-03T11:37:28.5014949+05:45</BookingDate>
+  </Booking>
+  <Booking>
+    <BookingId>1003</BookingId>
+    <FirstName>wre</FirstName>
+    <Surname>ewr</Surname>
+    <Address>ewewr</Address>
+    <Age>25</Age>
+    <LicenseNumber>ewrewr</LicenseNumber>
+    <NumberOfDays>5</NumberOfDays>
+    <CarType>City car</CarType>
+    <FuelType>Petrol</FuelType>
+    <UnlimitedMileage>true</UnlimitedMileage>
+    <BreakdownCover>true</BreakdownCover>
+    <TotalPrice>185</TotalPrice>
+    <BookingDate>2026-01-03T13:05:25.8236618+05:45</BookingDate>
+  </Booking>
+</ArrayOfBooking>
