@@ -6,3 +6,7 @@ id: sta001
 
 
 password: givemethekeys123
+
+  have a full needed db structures inbeded in the ui so that non technical persons can also use this softwares and use it in their business frimas and can do more saving the datas of vechiles and also manage the vechiles across multiple pages for proper managing the veciles.
+
+  also has a different selection types of vechile 
